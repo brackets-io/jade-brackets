@@ -1,12 +1,12 @@
 {
-  "name": "jade-code-mirror",
-  "description": "A robust syntax highlighter for jade in node.js",
-  "homepage": "https://github.com/ForbesLindesay/jade-brackets",
-  "author": "Forbes Lindesay (http://www.forbeslindesay.co.uk)",
+  "name": "jade-code-mirror-preprocessors",
+  "description": "A robust syntax highlighter for jade in node.js. This fork features better support for inline preprocessors.",
+  "homepage": "https://github.com/joepie91/jade-brackets",
+  "author": "Sven Slootweg",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ForbesLindesay/jade-brackets.git"
+    "url": "git://github.com/joepie91/jade-brackets.git"
   },
   "peerDependencies ": {
     "code-mirror": "^4.6.0"

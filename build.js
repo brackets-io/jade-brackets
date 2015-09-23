@@ -1,6 +1,6 @@
 'use strict';
 
-var EXTENSIONS_FOLDER = '/Users/forbeslindesay/Library/Application Support/Brackets/extensions/user';
+var EXTENSIONS_FOLDER = '/home/sven/.config/Brackets/extensions/user';
 
 var fs = require('fs');
 var rm = require('rimraf').sync;
